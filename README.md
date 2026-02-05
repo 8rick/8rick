@@ -1,7 +1,7 @@
 
 # Olá, eu sou Rickelmy 👋
 
-Sou desenvolvedor front-end, trabalhando principalmente com *JavaScript,React e React Native .
+Sou desenvolvedor front-end, trabalhando principalmente com *JavaScript,React,React Native, Next.js.
 
 ## 🛠 Tecnologias e Skills
 
