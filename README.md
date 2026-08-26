@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Rickelmy Barbosa 👋</h1>
 
 <p align="center">
-  Desenvolvedor <strong>Full-Stack em formação</strong> · Estudante de ADS · Minas Gerais, Brasil
+  Desenvolvedor <strong>Full-Stack em formação</strong> · Estudante de ADS 
 </p>
 
 <p align="center">
@@ -25,15 +25,6 @@ Sou desenvolvedor em formação, com interesse em construir produtos que sejam c
 - 🔭 Foco atual: desenvolvimento Full-Stack, APIs REST e experiência de produto.
 - 🌱 Em evolução com React, Next.js, Java, Spring Boot, Node.js e React Native.
 - 🤝 Busco uma oportunidade de estágio para aprender, colaborar e gerar impacto em um time de engenharia.
-
-## Projetos em destaque
-
-| Projeto | O que construí | Links |
-| :-- | :-- | :-- |
-| **FitPro IA** | Aplicação fitness publicada na web para acompanhar uma rotina de treinos. | [Demo](https://fitpro-ia.netlify.app/) · [Código](https://github.com/8rick/App-academia2) |
-| **App Academia** | Aplicativo mobile com navegação, persistência e experiência voltada ao universo fitness. | [Código](https://github.com/8rick/App-academia2) |
-| **API Study Simple** | API REST de produtos com CRUD, paginação, validação, Swagger e testes automatizados. | [Código](https://github.com/8rick/api-study-simple) |
-| **Fintack API** | API em TypeScript com autenticação, persistência e integração de serviços. | [Código](https://github.com/8rick/fintack-api) |
 
 ## Tecnologias
 
