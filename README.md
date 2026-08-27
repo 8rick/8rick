@@ -28,8 +28,6 @@ Sou desenvolvedor em formação, com interesse em construir produtos que sejam c
 
 ## Tecnologias
 
-<sub>Clique em qualquer logo para abrir a documentação oficial.</sub>
-
 ### Front-end & Mobile
 
 <p>
