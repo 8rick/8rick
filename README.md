@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Rickelmy Barbosa 👋</h1>
 
 <p align="center">
-  Desenvolvedor <strong>Full-Stack em formação</strong> · Estudante de ADS 
+  Desenvolvedor em formação</strong> · Estudante de ADS 
 </p>
 
 <p align="center">
