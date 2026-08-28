@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Rickelmy Barbosa" />
   </a>
   <a href="mailto:barbosarickelmy8@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" />
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" />
   </a>
   <a href="https://github.com/8rick">
-    <img src="https://img.shields.io/badge/GitHub-@8rick-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Rickelmy Barbosa" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Rickelmy Barbosa" />
   </a>
 </p>
 
